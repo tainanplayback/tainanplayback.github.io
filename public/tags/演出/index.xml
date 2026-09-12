@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>演出 on 南飛．嚼事一人一故事劇團</title>
+		<link>http://localhost:1313/tags/%E6%BC%94%E5%87%BA/</link>
+		<description>Recent content in 演出 on 南飛．嚼事一人一故事劇團</description>
+		<generator>Hugo</generator>
+		<language>zh-tw</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 20 Jul 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/%E6%BC%94%E5%87%BA/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>【隔閡之外－一人一故事劇場社會對話實驗行動】《為什麼我們想投的不一樣？》</title>
+				<link>http://localhost:1313/performance/202607_politics/</link>
+				<pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/performance/202607_politics/</guid>
+				<description>&lt;h1 id=&#34;有一個大標題&#34;&gt;有一個大標題&lt;/h1&gt;&#xA;&lt;h2 id=&#34;有一個小標題&#34;&gt;有一個小標題&lt;/h2&gt;</description>
+			</item>
+	</channel>
+</rss>

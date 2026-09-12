@@ -715,24 +715,24 @@ img { max-width: 100%; }
 
 */
 .sans-serif { font-family: 'Iansui', 'Noto Sans TC', -apple-system, BlinkMacSystemFont, 'avenir next', avenir, 'helvetica neue', helvetica, ubuntu, roboto, noto, 'segoe ui', arial, sans-serif; }
-.serif { font-family: georgia, times, serif; }
-.system-sans-serif { font-family: sans-serif; }
-.system-serif { font-family: serif; }
+.serif { font-family: 'Iansui','Noto Sans TC', georgia, times, serif; }
+.system-sans-serif { font-family: 'Iansui','Noto Sans TC', sans-serif; }
+.system-serif { font-family: 'Iansui','Noto Sans TC', serif; }
 /* Monospaced Typefaces (for code) */
 /* From http://cssfontstack.com */
 code, .code { font-family: Consolas, monaco, monospace; }
-.courier { font-family: 'Courier Next', courier, monospace; }
+.courier { font-family: 'Iansui','Noto Sans TC', 'Courier Next', courier, monospace; }
 /* Sans-Serif Typefaces */
-.helvetica { font-family: 'helvetica neue', helvetica, sans-serif; }
+.helvetica { font-family: 'Iansui','helvetica neue', helvetica, sans-serif; }
 .avenir { font-family: 'Iansui', 'Noto Sans TC', 'avenir next', avenir, sans-serif; }
 /* Serif Typefaces */
-.athelas { font-family: athelas, georgia, serif; }
-.georgia { font-family: georgia, serif; }
+.athelas { font-family: 'Iansui','Noto Sans TC', athelas, georgia, serif; }
+.georgia { font-family: 'Iansui','Noto Sans TC', georgia, serif; }
 .times { font-family: times, serif; }
-.bodoni { font-family: "Bodoni MT", serif; }
-.calisto { font-family: "Calisto MT", serif; }
-.garamond { font-family: garamond, serif; }
-.baskerville { font-family: baskerville, serif; }
+.bodoni { font-family: 'Iansui','Noto Sans TC', "Bodoni MT", serif; }
+.calisto { font-family: 'Iansui','Noto Sans TC', "Calisto MT", serif; }
+.garamond { font-family: 'Iansui','Noto Sans TC', garamond, serif; }
+.baskerville { font-family: 'Iansui','Noto Sans TC', baskerville, serif; }
 /*
 
    FONT STYLE

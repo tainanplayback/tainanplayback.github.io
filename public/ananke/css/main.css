@@ -894,15 +894,23 @@ img {
 }
 .serif {
   font-family:
+    "Iansui",
+    "Noto Sans TC",
     georgia,
     times,
     serif;
 }
 .system-sans-serif {
-  font-family: sans-serif;
+  font-family:
+    "Iansui",
+    "Noto Sans TC",
+    sans-serif;
 }
 .system-serif {
-  font-family: serif;
+  font-family:
+    "Iansui",
+    "Noto Sans TC",
+    serif;
 }
 code,
 .code {
@@ -913,12 +921,15 @@ code,
 }
 .courier {
   font-family:
+    "Iansui",
+    "Noto Sans TC",
     "Courier Next",
     courier,
     monospace;
 }
 .helvetica {
   font-family:
+    "Iansui",
     "helvetica neue",
     helvetica,
     sans-serif;
@@ -933,27 +944,49 @@ code,
 }
 .athelas {
   font-family:
+    "Iansui",
+    "Noto Sans TC",
     athelas,
     georgia,
     serif;
 }
 .georgia {
-  font-family: georgia, serif;
+  font-family:
+    "Iansui",
+    "Noto Sans TC",
+    georgia,
+    serif;
 }
 .times {
   font-family: times, serif;
 }
 .bodoni {
-  font-family: "Bodoni MT", serif;
+  font-family:
+    "Iansui",
+    "Noto Sans TC",
+    "Bodoni MT",
+    serif;
 }
 .calisto {
-  font-family: "Calisto MT", serif;
+  font-family:
+    "Iansui",
+    "Noto Sans TC",
+    "Calisto MT",
+    serif;
 }
 .garamond {
-  font-family: garamond, serif;
+  font-family:
+    "Iansui",
+    "Noto Sans TC",
+    garamond,
+    serif;
 }
 .baskerville {
-  font-family: baskerville, serif;
+  font-family:
+    "Iansui",
+    "Noto Sans TC",
+    baskerville,
+    serif;
 }
 .i {
   font-style: italic;

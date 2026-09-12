@@ -1,11 +1,11 @@
 +++
-title = "南飛嚼事"
+title = "南飛．嚼事"
 featured_image = "/img/home.jpg"
 description = "在南方天空下起飛的一人一故事劇團"
 +++
 
 
-## 最新活動
+## 下次活動
  
 開放團練 🪽《青春期的那些事》🪽
 

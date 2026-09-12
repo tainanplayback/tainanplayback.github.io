@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>最新資訊 on 南飛．嚼事一人一故事劇團</title>
-		<link>http://localhost:60632/event/</link>
-		<description>Recent content in 最新資訊 on 南飛．嚼事一人一故事劇團</description>
+		<title>活動資訊 on 南飛．嚼事一人一故事劇團</title>
+		<link>http://localhost:1313/event/</link>
+		<description>Recent content in 活動資訊 on 南飛．嚼事一人一故事劇團</description>
 		<generator>Hugo</generator>
 		<language>zh-tw</language>
 		
 		
 		
 		
-			<atom:link href="http://localhost:60632/event/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/event/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>

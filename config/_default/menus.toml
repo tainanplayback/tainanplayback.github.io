@@ -11,9 +11,15 @@ weight = 20
 [[main]]
 name = "課程紀錄"
 url = "/class/"
-weight = 20
+weight = 30
+
+[[main]]
+name = "活動紀錄"
+url = "/event/"
+weight = 40
+
 
 [[main]]
 name = "聯絡我們"
 url = "/contact/"
-weight = 30
+weight = 50

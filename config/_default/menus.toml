@@ -1,0 +1,19 @@
+[[main]]
+name = "關於我們"
+url = "/about/"
+weight = 10
+
+[[main]]
+name = "演出紀錄"
+url = "/performance/"
+weight = 20
+
+[[main]]
+name = "課程紀錄"
+url = "/class/"
+weight = 20
+
+[[main]]
+name = "聯絡我們"
+url = "/contact/"
+weight = 30

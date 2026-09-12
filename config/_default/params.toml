@@ -1,0 +1,22 @@
+[ananke.pages]
+show_list_images = true
+
+[ananke.social.follow]
+new_window_icon = true
+networks = [
+    "email",
+    "facebook"
+]
+
+[ananke.social.share]
+icons = true
+sharetext = true
+networks = [
+  "email",
+  "facebook",
+  "bluesky",
+  "linkedin"
+]
+
+[ananke.social.facebook]
+username = "tainanpbt"

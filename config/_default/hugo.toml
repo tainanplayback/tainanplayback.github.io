@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+locale = 'zh-tw'
+title = '南飛嚼事一人一故事劇團'
+theme = 'ananke'
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  location = "locations"
+
+[caches]
+[caches.images]
+dir = ':cacheDir/images'

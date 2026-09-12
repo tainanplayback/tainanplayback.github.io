@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on 南飛嚼事一人一故事劇團</title>
+		<link>http://localhost:1313/posts/</link>
+		<description>Recent content in Posts on 南飛嚼事一人一故事劇團</description>
+		<generator>Hugo</generator>
+		<language>zh-tw</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>關於我們2</title>
+				<link>http://localhost:1313/posts/my-sec-about-copy-2/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/my-sec-about-copy-2/</guid>
+				<description>&lt;h1 id=&#34;有一個&#34;&gt;有一個&lt;/h1&gt;&#xA;&lt;h2 id=&#34;有一個小&#34;&gt;有一個小&lt;/h2&gt;</description>
+			</item>
+	</channel>
+</rss>

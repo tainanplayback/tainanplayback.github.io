@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tags on 南飛嚼事一人一故事劇團</title>
+		<link>http://localhost:1313/tags/</link>
+		<description>Recent content in Tags on 南飛嚼事一人一故事劇團</description>
+		<generator>Hugo</generator>
+		<language>zh-tw</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 12 Sep 2026 15:08:28 +0800</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>互動劇場</title>
+				<link>http://localhost:1313/tags/%E4%BA%92%E5%8B%95%E5%8A%87%E5%A0%B4/</link>
+				<pubDate>Sat, 12 Sep 2026 15:08:28 +0800</pubDate>
+				<guid>http://localhost:1313/tags/%E4%BA%92%E5%8B%95%E5%8A%87%E5%A0%B4/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>台南</title>
+				<link>http://localhost:1313/tags/%E5%8F%B0%E5%8D%97/</link>
+				<pubDate>Sat, 12 Sep 2026 15:08:28 +0800</pubDate>
+				<guid>http://localhost:1313/tags/%E5%8F%B0%E5%8D%97/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>社區演出</title>
+				<link>http://localhost:1313/tags/%E7%A4%BE%E5%8D%80%E6%BC%94%E5%87%BA/</link>
+				<pubDate>Sat, 12 Sep 2026 15:08:28 +0800</pubDate>
+				<guid>http://localhost:1313/tags/%E7%A4%BE%E5%8D%80%E6%BC%94%E5%87%BA/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

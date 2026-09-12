@@ -1,0 +1,37 @@
+/* Put your custom styles here and run `npm start` from the "src" directory on */
+
+#TableOfContents ul li {
+  margin-bottom: 1em;
+}
+
+.lh-copy blockquote {
+  display: block;
+  font-size: .875em;
+  margin-left: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border-left: 4px solid #ccc;
+  padding-left: 1rem;
+
+}
+
+.nested-links a{
+  overflow-wrap: break-word;
+}
+
+/* noto-sans-tc-regular - chinese-traditional_latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Noto Sans TC';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/noto-sans-tc-v39-chinese-traditional_latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+} 
+
+@font-face {
+  font-display: swap;
+  font-family: 'Iansui';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/Iansui-Regular.ttf') format('truetype');
+}

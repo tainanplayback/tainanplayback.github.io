@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Categories on 南飛嚼事一人一故事劇團</title>
-		<link>http://localhost:1313/categories/</link>
-		<description>Recent content in Categories on 南飛嚼事一人一故事劇團</description>
+		<title>Categories on 南飛．嚼事一人一故事劇團</title>
+		<link>http://localhost:60632/categories/</link>
+		<description>Recent content in Categories on 南飛．嚼事一人一故事劇團</description>
 		<generator>Hugo</generator>
 		<language>zh-tw</language>
 		
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Sat, 12 Sep 2026 15:08:28 +0800</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:60632/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>公演紀錄</title>
-				<link>http://localhost:1313/categories/%E5%85%AC%E6%BC%94%E7%B4%80%E9%8C%84/</link>
+				<link>http://localhost:60632/categories/%E5%85%AC%E6%BC%94%E7%B4%80%E9%8C%84/</link>
 				<pubDate>Sat, 12 Sep 2026 15:08:28 +0800</pubDate>
-				<guid>http://localhost:1313/categories/%E5%85%AC%E6%BC%94%E7%B4%80%E9%8C%84/</guid>
+				<guid>http://localhost:60632/categories/%E5%85%AC%E6%BC%94%E7%B4%80%E9%8C%84/</guid>
 				<description></description>
 			</item>
 	</channel>

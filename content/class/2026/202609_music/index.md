@@ -3,7 +3,6 @@ date = '2026-09-05'
 draft = false
 title = "2026 音樂聆聽與表達啟蒙課程"
 private = true
-description = "一人一故事增能課程"
 categories= ["課程"]
 tags = ["樂師"]
 omit_header_text= false

@@ -7355,14 +7355,14 @@ p code {
   font-family: "Noto Sans TC";
   font-style: normal;
   font-weight: 400;
-  src: url("/ananke/css/noto-sans-tc-v39-chinese-traditional_latin-regular-D7PVCAQO.woff2") format("woff2");
+  src: url("/tainanplayback/ananke/css/noto-sans-tc-v39-chinese-traditional_latin-regular-D7PVCAQO.woff2") format("woff2");
 }
 @font-face {
   font-display: swap;
   font-family: "Iansui";
   font-style: normal;
   font-weight: 400;
-  src: url("/ananke/css/Iansui-Regular-TRKVCTQP.ttf") format("truetype");
+  src: url("/tainanplayback/ananke/css/Iansui-Regular-TRKVCTQP.ttf") format("truetype");
 }
 .ananke-socials a.facebook:hover {
   color: #3b5998 !important;

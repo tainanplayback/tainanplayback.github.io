@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>關於我們 on 南飛．嚼事一人一故事劇團</title>
-		<link>http://localhost:1313/about/</link>
+		<link>http://localhost:1313/tainanplayback/about/</link>
 		<description>Recent content in 關於我們 on 南飛．嚼事一人一故事劇團</description>
 		<generator>Hugo</generator>
 		<language>zh-tw</language>
@@ -10,6 +10,6 @@
 		
 		
 		
-			<atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tainanplayback/about/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>

@@ -1,0 +1,33 @@
+@media screen and (min-width: 60em) {
+  .flex-ns.flex-wrap.justify-around {
+    justify-content: flex-start;
+    gap: 2rem;
+  }
+}
+
+@media screen and (min-width: 60em) {
+  .ph0-l {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}
+
+.measure-wide {
+  max-width: 40em;
+}
+
+.nested-img img,
+.nested-links img {
+  display: block;
+  margin: 0 auto;
+}
+
+.flex-column.flex-row-ns.flex {
+  flex-direction: column;   
+}
+
+/* 讓兩個子區塊都佔滿整列 */
+.flex-column.flex-row-ns.flex > div {
+  width: 100% !important;
+}
+

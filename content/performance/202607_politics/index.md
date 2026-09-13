@@ -6,9 +6,12 @@ private = true
 categories= ["演出紀錄"]
 tags = ["台南", "演出"]
 omit_header_text= false
+featured_image = "2026_nvc_a2.jpg"
 +++
 
 在小伃老師的邀請下，我們參與了台北悅萃坊的合作協同計畫《應用一人一故事劇場於政治對話》，在演出前進行了兩場非暴力溝通（NVC）培訓後，在新營完成了共兩場《為什麼我們想投的不一樣？》演出。
+
+<!--more-->
 
 ![彩排](2026_nvc_pre2.jpg)
 *活動前的自我介紹綵排*

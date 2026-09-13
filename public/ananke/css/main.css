@@ -7368,13 +7368,47 @@ p code {
   color: #3b5998 !important;
   fill: #3b5998 !important;
 }
-.ananke-socials a.bluesky:hover {
-  color: #1185fe !important;
-  fill: #1185fe !important;
+.ananke-socials a.instagram:hover {
+  color: #e1306c !important;
+  fill: #e1306c !important;
 }
-.ananke-socials a.linkedin:hover {
-  color: #0077b5 !important;
-  fill: #0077b5 !important;
+.ananke-socials a.rss:hover {
+  color: #ff6f1a !important;
+  fill: #ff6f1a !important;
+}
+.ananke-socials a.telegram:hover {
+  color: #0088cc !important;
+  fill: #0088cc !important;
+}
+.ananke-socials a.twitter:hover {
+  color: #1da1f2 !important;
+  fill: #1da1f2 !important;
+}
+@media screen and (min-width: 60em) {
+  .flex-ns.flex-wrap.justify-around {
+    justify-content: flex-start;
+    gap: 2rem;
+  }
+}
+@media screen and (min-width: 60em) {
+  .ph0-l {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}
+.measure-wide {
+  max-width: 40em;
+}
+.nested-img img,
+.nested-links img {
+  display: block;
+  margin: 0 auto;
+}
+.flex-column.flex-row-ns.flex {
+  flex-direction: column;
+}
+.flex-column.flex-row-ns.flex > div {
+  width: 100% !important;
 }
 /*! TACHYONS v4.12.0 | http://tachyons.io */
 /*! normalize.css v8.0.0 | MIT License | github.com/necolas/normalize.css */

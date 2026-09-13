@@ -4,16 +4,19 @@ title = '南飛．嚼事一人一故事劇團'
 theme = 'ananke'
 
 [taxonomies]
-  tag = "tags"
-  category = "categories"
-  location = "locations"
+tag = "tags"
+category = "categories"
+location = "locations"
 
+# Hugo官方建議 github page workflow 時增加的
 [caches]
 [caches.images]
 dir = ':cacheDir/images'
 
+# 調整圖片百分比相關語法
 [markup.goldmark.parser]
 wrapStandAloneImageWithinParagraph = false
 
+# 調整卡片列頁面中的單一卡片寬度時使用
 [markup.goldmark.parser.attribute]
 block = true

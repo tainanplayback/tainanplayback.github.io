@@ -6,11 +6,14 @@ private = true
 categories= ["課程"]
 tags = ["樂師"]
 omit_header_text= false
+featured_image = "202609_music_group.jpg"
 +++
 
 籌備已久、大家引頸期盼的樂師工作坊圓滿落幕啦！
 
 謝謝[五維聚所](https://www.facebook.com/motifive.art?__cft__[0]=AZh3LpcFRYBvRU9i5efosC3c6NwUdJFGS27pcTZNQwqu1xQ9kqDm6dgW42xbPNLxtVwVgD1EmwPoizb8T9qeck5W7qrXsT1IBWnsdVvhOT1GUwWiFcFeegHncZAYHHmUts4UHnH-tig&__tn__=-]K-R)經驗豐富又溫柔的 Grace ，從北部來為我們帶來兩梯次精彩的課程。
+
+<!--more-->
 
 原先只有規劃一個梯次的課程，在大家的熱情報名下緊急加開第二梯次。
 

@@ -1,22 +1,30 @@
+body_classes = "sans-serif bg-light-gray"
+
+[ananke]
+custom_css = ["custom.css"]
+
 [ananke.pages]
 show_list_images = true
 
 [ananke.social.follow]
 new_window_icon = true
 networks = [
-    "email",
-    "facebook"
+    "facebook", 
+    "instagram",
+    "rss"
 ]
 
 [ananke.social.share]
 icons = true
 sharetext = true
 networks = [
-  "email",
   "facebook",
-  "bluesky",
-  "linkedin"
+  "telegram",
+  "twitter"
 ]
 
 [ananke.social.facebook]
+username = "tainanpbt"
+
+[ananke.social.instagram]
 username = "tainanpbt"

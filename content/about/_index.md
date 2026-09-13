@@ -1,15 +1,13 @@
 +++
 title = "關於我們"
 featured_image = "/img/home.jpg"
-description = "在南方天空下起飛的一人一故事劇團"
+description = "♬ 在南方天空下起飛的一人一故事劇團 ♬"
 +++
 
 ---------
 
-♬ 南飛．嚼事一人一故事劇團 ♬
-
 ![南飛團徽](square_icon.jpg)
-{width="60%"}
+{width="60%" class="img-center"}
 
 ## 🎭 什麼是一人一故事劇場？
 

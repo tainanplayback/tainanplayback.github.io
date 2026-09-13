@@ -11,3 +11,9 @@ theme = 'ananke'
 [caches]
 [caches.images]
 dir = ':cacheDir/images'
+
+[markup.goldmark.parser]
+wrapStandAloneImageWithinParagraph = false
+
+[markup.goldmark.parser.attribute]
+block = true

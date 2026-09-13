@@ -24,6 +24,6 @@ https://www.instagram.com/tainanplayback
 
 ## Email
 
-如有其他事項，請聯繫我們的官方email，我們會盡快回覆您
+如有其他事項，請聯繫我們的官方email，我們會盡快回覆您！
 
 tainanplayback@gmail.com

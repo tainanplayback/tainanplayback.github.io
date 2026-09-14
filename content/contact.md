@@ -1,6 +1,6 @@
 +++
 title = "聯絡我們"
-featured_image = "/img/home.jpg"
+featured_image = "home_homepage.jpg"
 +++
 
 <!-- ## 加入南飛之友

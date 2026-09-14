@@ -1,6 +1,6 @@
 +++
 title = "關於我們"
-featured_image = "/img/home.jpg"
+featured_image = "home_homepage.jpg"
 description = "♬ 在南方天空下起飛的一人一故事劇團 ♬"
 +++
 

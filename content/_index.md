@@ -13,5 +13,4 @@ description = "在南方天空下起飛的一人一故事劇團"
 
 費用 200 元，現場繳交（協會會員免費）
 
-報名連結：
-https://forms.gle/213k7Zh5kSFHiHKj9
+[報名連結](https://forms.gle/213k7Zh5kSFHiHKj9) ｜ [上半年開放團練](https://tainanplayback.org/event/202605_period/)

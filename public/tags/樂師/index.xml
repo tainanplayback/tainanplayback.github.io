@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>樂師 on 南飛．嚼事一人一故事劇團</title>
-		<link>http://localhost:1313/tainanplayback/tags/%E6%A8%82%E5%B8%AB/</link>
+		<link>http://localhost:1313/tags/%E6%A8%82%E5%B8%AB/</link>
 		<description>Recent content in 樂師 on 南飛．嚼事一人一故事劇團</description>
 		<generator>Hugo</generator>
 		<language>zh-tw</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Sat, 05 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tainanplayback/tags/%E6%A8%82%E5%B8%AB/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/%E6%A8%82%E5%B8%AB/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>2026 音樂聆聽與表達啟蒙課程</title>
-				<link>http://localhost:1313/tainanplayback/class/2026/202609_music/</link>
+				<link>http://localhost:1313/class/2026/202609_music/</link>
 				<pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tainanplayback/class/2026/202609_music/</guid>
+				<guid>http://localhost:1313/class/2026/202609_music/</guid>
 				<description>&lt;p&gt;籌備已久、大家引頸期盼的樂師工作坊圓滿落幕啦！&lt;/p&gt;&#xA;&lt;p&gt;謝謝&lt;a href=&#34;https://www.facebook.com/motifive.art?__cft__%5B0%5D=AZh3LpcFRYBvRU9i5efosC3c6NwUdJFGS27pcTZNQwqu1xQ9kqDm6dgW42xbPNLxtVwVgD1EmwPoizb8T9qeck5W7qrXsT1IBWnsdVvhOT1GUwWiFcFeegHncZAYHHmUts4UHnH-tig&amp;amp;__tn__=-%5DK-R&#34;&gt;五維聚所&lt;/a&gt;經驗豐富又溫柔的 Grace ，從北部來為我們帶來兩梯次精彩的課程。&lt;/p&gt;</description>
 			</item>
 	</channel>

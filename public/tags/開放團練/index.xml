@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>開放團練 on 南飛．嚼事一人一故事劇團</title>
-		<link>http://localhost:1313/tainanplayback/tags/%E9%96%8B%E6%94%BE%E5%9C%98%E7%B7%B4/</link>
+		<link>http://localhost:1313/tags/%E9%96%8B%E6%94%BE%E5%9C%98%E7%B7%B4/</link>
 		<description>Recent content in 開放團練 on 南飛．嚼事一人一故事劇團</description>
 		<generator>Hugo</generator>
 		<language>zh-tw</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Sat, 16 May 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tainanplayback/tags/%E9%96%8B%E6%94%BE%E5%9C%98%E7%B7%B4/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/%E9%96%8B%E6%94%BE%E5%9C%98%E7%B7%B4/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>《生理期》開放團練</title>
-				<link>http://localhost:1313/tainanplayback/event/202605_period/</link>
+				<link>http://localhost:1313/event/202605_period/</link>
 				<pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tainanplayback/event/202605_period/</guid>
+				<guid>http://localhost:1313/event/202605_period/</guid>
 				<description>&lt;p&gt;在這次的活動中，我們共有十二位劇團夥伴，以及十位報名參與的朋友。透過一系列循序漸進的劇場活動，慢慢找到自己與這個場地、身邊的夥伴、彼此「生理期」故事的連結，以及對這些連結有什麼不同的感受。&lt;/p&gt;</description>
 			</item>
 	</channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>非暴力溝通 on 南飛．嚼事一人一故事劇團</title>
-		<link>http://localhost:1313/tainanplayback/tags/%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%BA%9D%E9%80%9A/</link>
+		<link>http://localhost:1313/tags/%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%BA%9D%E9%80%9A/</link>
 		<description>Recent content in 非暴力溝通 on 南飛．嚼事一人一故事劇團</description>
 		<generator>Hugo</generator>
 		<language>zh-tw</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Sun, 05 Jul 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tainanplayback/tags/%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%BA%9D%E9%80%9A/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%BA%9D%E9%80%9A/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>2026 一人一故事劇場 X 非暴力溝通工作坊</title>
-				<link>http://localhost:1313/tainanplayback/class/2026/202605_nvc/</link>
+				<link>http://localhost:1313/class/2026/202605_nvc/</link>
 				<pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tainanplayback/class/2026/202605_nvc/</guid>
+				<guid>http://localhost:1313/class/2026/202605_nvc/</guid>
 				<description>&lt;p&gt;在小伃老師的邀請下，我們參與了台北悅萃坊的合作協同計畫《應用一人一故事劇場於政治對話》，並在演出前進行了兩場非暴力溝通（NVC）培訓。&lt;/p&gt;&#xA;&lt;p&gt;感謝志軒、阿德與小伃老師特地南下，帶領我們進入非暴力溝通（NVC）的學習。&lt;/p&gt;</description>
 			</item>
 	</channel>

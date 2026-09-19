@@ -1,25 +1,30 @@
 [[main]]
 name = "關於我們"
 url = "/about/"
-weight = 10
+weight = 1
 
 [[main]]
 name = "演出紀錄"
 url = "/performance/"
-weight = 20
+weight = 500
 
 [[main]]
 name = "課程紀錄"
 url = "/class/"
-weight = 30
+weight = 600
 
 [[main]]
 name = "活動紀錄"
 url = "/event/"
-weight = 40
+weight = 700
 
 
 [[main]]
 name = "聯絡我們"
 url = "/contact/"
-weight = 50
+weight = 800
+
+[[main]]
+name = "訂閱南飛"
+url = "https://kit.tainanplayback.org/subscribe"
+weight = 999

@@ -3,11 +3,13 @@ title = "聯絡我們"
 featured_image = "home_homepage.jpg"
 +++
 
-<!-- ## 加入南飛之友
+## 🪽 訂閱南飛
 
-想要接收到我們最新的課程或公開演出資訊嗎？
+想要接收到我們最新的課程或演出資訊嗎？
 
-歡迎從這裡訂閱我們的電子報哦！ -->
+歡迎從這裡訂閱我們的電子報哦！
+
+https://kit.tainanplayback.org/subscribe
 
 
 ## 📰 Facebook

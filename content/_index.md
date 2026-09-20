@@ -1,5 +1,6 @@
 +++
 title = "南飛．嚼事"
+keywords = ["一人一故事", "台南", "臺南", "戲劇", "即興劇", "社區劇場", "Playback", "PBT", "Playback Theater", "即興劇"]
 featured_image = "home_homepage.jpg"
 description = "在南方天空下起飛的一人一故事劇團"
 +++

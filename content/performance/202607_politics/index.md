@@ -4,7 +4,8 @@ draft = false
 title = '《為什麼我們想投的不一樣？》演出'
 private = true
 categories= ["演出紀錄"]
-tags = ["台南", "演出"]
+keywords=["台南", "一人一故事", "政治", "非暴力溝通", "即興劇"]
+tags = ["演出"]
 omit_header_text= false
 featured_image = "2026_nvc_a2.jpg"
 +++

@@ -16,13 +16,3 @@ description = "在南方天空下起飛的一人一故事劇團"
 2027.01.09（六） @ 台南瀞劇場
 
 [節目資訊與購票連結](https://forms.gle/hkTNY1tZjVWN13XLA) 
-
-【一人一故事劇團開放團練】
-
-🪽《青春期的那些事》🪽
-
-2026.11.06（五）19:30～21:30 @ 台南瀞劇場
-
-費用 200 元，現場繳交（協會會員免費）
-
-[開放團練報名表單](https://forms.gle/213k7Zh5kSFHiHKj9) ｜ [上半年開放團練](https://tainanplayback.org/event/202605_period/)

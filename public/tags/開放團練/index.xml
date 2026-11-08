@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 16 May 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Fri, 06 Nov 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/tags/%E9%96%8B%E6%94%BE%E5%9C%98%E7%B7%B4/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>《青春期》開放團練</title>
+				<link>http://localhost:1313/event/202611_adolescence/</link>
+				<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/event/202611_adolescence/</guid>
+				<description>&lt;p&gt;這次的一人一故事開放團練由剛剛回歸的小武帶領，很歡迎十二位報名的朋友一起來練習。在短短的兩個小時內，我們一步步靠近青春期的身體記憶，然後以一人一故事的方式練習與服務彼此。&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>《生理期》開放團練</title>
 				<link>http://localhost:1313/event/202605_period/</link>
